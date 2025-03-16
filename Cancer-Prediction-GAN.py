@@ -116,9 +116,7 @@ footer = """
         }
     </style>
     <div class="footer">
-        🚀 Developed by <span class="name">Ritik Kumar</span> <br/> 
-        <a href="https://www.linkedin.com/in/ritik-kumar-34ab70218/" target="_blank">🔗 LinkedIn</a> | 
-        <a href="https://github.com/RitikRK96" target="_blank">💻 GitHub</a>
+        🚀 Developed by <span class="name">Akash Kumar</span> <br/> 
     </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
